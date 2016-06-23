@@ -25,5 +25,5 @@ Expected Outcome: absolute acceleration value zero<br>
 Required Material: Smartphone, Pillow<br>
 
 7. Device free fall on an inclined table (table is inclined at an angle (θ) to the gravity vector)<br>
-Expected Outcome: acceleration along x-axis = acceleration along y-axis = acceleration along z-axis = 0<br>
+Expected Outcome: force of gravity along x-axis = 9.81 x cos(θ); force of gravity along z-axis = 9.81 x sin(θ)<br>
 Required Material: Smartphone, Flat table<br>
